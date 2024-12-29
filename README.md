@@ -20,7 +20,13 @@ Data Visualization:
 Correlation Analysis:
     Identifying correlations between heart patients over the years on various key factors.
 
-   Inferences from the entire Project:
+
+Output Screenshots:
+    ![image](https://github.com/user-attachments/assets/9bf13e82-2f04-4950-b713-61b40ee044aa)
+    
+    ![image](https://github.com/user-attachments/assets/0918cf3d-b469-4def-a6e2-bf4fe33b7a6a)
+
+Inferences from the entire Project:
    
 ->Males are at higher risk of heart disease.
 ->Those who have never smoked have a higher rate of heart disease, and the lowest rate is in those who are former smokers. People who have a family history of heart disease are more likely to develop it.
@@ -29,3 +35,4 @@ Correlation Analysis:
 ->Columns with zero skewness indicate that the mean and median values are the same.
 ->The average cholesterol levels are high in the sample data.
 ->We have heart disease rate of 39.2 percent.
+
